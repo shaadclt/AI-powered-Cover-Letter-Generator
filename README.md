@@ -1,5 +1,7 @@
 # AI-powered Cover Letter Generator
 
+![clg - github](https://github.com/shaadclt/AI-powered-Cover-Letter-Generator/assets/98437584/729645f2-550b-4e59-bc6d-b39784d5fa23)
+
 ## Overview
 
 The AI-powered Cover Letter Generator is a Streamlit web application that leverages the GooglePalm language model to generate cover letters based on user input. Users can input details such as job description, company name, job position, experience, and the maximum number of characters for the cover letter.
